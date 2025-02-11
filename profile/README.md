@@ -10,7 +10,8 @@ Terr4m focuses on creating providers for various services and platforms, extendi
 
 Here you'll find a collection of Terraform providers developed and maintained by the Terr4m team.  Each provider has its own repository with detailed documentation and examples.  Browse our repositories to find the provider you need.
 
-- TBC
+- [Terraform Provider K8s](https://github.com/terr4m/terraform-provider-k8s) (_WORK IN PROGRESS_)
+- [Terraform Provider Utils](https://github.com/terr4m/terraform-provider-utils) (_BETA_)
 
 ## Contributing
 
