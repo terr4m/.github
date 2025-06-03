@@ -20,4 +20,6 @@ Here you'll find a collection of Terraform providers developed and maintained by
 
 We welcome contributions from the community!  Whether you're interested in bug fixes, new features, or simply improving documentation, we appreciate your help.
 
+Please read our [Contributing Guidelines](https://github.com/terr4m/.github/blob/main/CONTRIBUTING.md) to get started and familiarize yourself with our [Code of Conduct](https://github.com/terr4m/.github/blob/main/CODE_OF_CONDUCT.md).
+
 Thank you for being a part of the Terr4m community!
